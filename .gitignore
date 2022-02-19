@@ -1,3 +1,4 @@
 vivek.info
 *.log
 log/
+.gitignore.swp
